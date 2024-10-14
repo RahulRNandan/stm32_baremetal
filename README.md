@@ -1,4 +1,3 @@
-```markdown
 # STM32 Bare-Metal Project
 
 This repository contains the source code for a simple bare-metal project running on an STM32 microcontroller (STM32F407xx). The project includes basic configurations such as linker scripts, startup files, and the blink LED example. This project does not use any high-level frameworks like HAL or SPL.
