@@ -101,9 +101,7 @@ obj/
 
 This project is released under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-```
-
-### Key Points in README.md:
+Key Points in README.md:
 - **Clear structure:** Provides the user with a visual project structure.
 - **Instructions for necessary files:** CMSIS and STM32F4 header files must be downloaded separately.
 - **Build and flash process:** Simple instructions for building and flashing the project to the STM32 board.
