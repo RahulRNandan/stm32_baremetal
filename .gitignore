@@ -1,2 +1,24 @@
+# Ignore build artifacts
+*.o
+*.bin
+*.elf
+
+# Ignore CMSIS and STM32 headers (as they are large and not necessary to push)
 includes/
 stm32f4_headers/
+
+# Ignore any temporary files created by your text editor or OS
+*.swp
+*.tmp
+*.bak
+*~
+.DS_Store
+
+# Ignore dependency files or generated files if any
+*.d
+
+# Ignore logs
+*.log
+
+# Ignore any files in obj/ (if it contains only intermediate files)
+obj/
